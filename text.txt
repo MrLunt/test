@@ -1,7 +1,2 @@
-This has some text
-yeah there is text
-
-
-MORE TEXT
-
-text things
+Clean file
+very clean file
